@@ -1,0 +1,38 @@
+solution:
+ 9
+-4
+maximum: 213
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 23:05:16 CEST 2021
+    hostname = node088
+- Job information:
+    JobId = 899331
+    JobName = j2_3_2_1B1_0V1
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node088
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_3_2_1B1_0V1.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_3_2_1B1_0V1.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_3_2_1B1_0V1.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 200G ( 204800.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:00 ( 0s )
+    MaxRSS = 916K ( 0.895M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

@@ -1,0 +1,488 @@
+--------BEG-----------
+-4
+-6
+ 7
+costs: 14
+
+-4
+-5
+ 7
+costs: 30
+
+-4
+-4
+ 7
+costs: 46
+
+-4
+-3
+ 7
+costs: 62
+
+-4
+-2
+ 7
+costs: 78
+
+-4
+-1
+ 7
+costs: 94
+
+-4
+ 0
+ 7
+costs: 110
+
+-4
+ 1
+ 7
+costs: 126
+
+-4
+ 2
+ 7
+costs: 142
+
+-4
+ 3
+ 7
+costs: 158
+
+-4
+ 4
+ 7
+costs: 174
+
+-4
+ 5
+ 7
+costs: 190
+
+-4
+ 6
+ 7
+costs: 206
+
+-4
+ 7
+ 7
+costs: 222
+
+-4
+ 8
+ 7
+costs: 238
+
+-4
+ 9
+ 7
+costs: 254
+
+-4
+10
+ 7
+costs: 270
+
+-4
+11
+ 7
+costs: 286
+
+-4
+-6
+ 8
+costs: 32
+
+-4
+-5
+ 8
+costs: 48
+
+-4
+-4
+ 8
+costs: 64
+
+-4
+-3
+ 8
+costs: 80
+
+-4
+-2
+ 8
+costs: 96
+
+-4
+-1
+ 8
+costs: 112
+
+-4
+ 0
+ 8
+costs: 128
+
+-4
+ 1
+ 8
+costs: 144
+
+-4
+ 2
+ 8
+costs: 160
+
+-4
+ 3
+ 8
+costs: 176
+
+-4
+ 4
+ 8
+costs: 192
+
+-4
+ 5
+ 8
+costs: 208
+
+-4
+ 6
+ 8
+costs: 224
+
+-4
+ 7
+ 8
+costs: 240
+
+-4
+ 8
+ 8
+costs: 256
+
+-4
+ 9
+ 8
+costs: 272
+
+-4
+10
+ 8
+costs: 288
+
+-4
+11
+ 8
+costs: 304
+
+-4
+-6
+ 9
+costs: 50
+
+-4
+-5
+ 9
+costs: 66
+
+-4
+-4
+ 9
+costs: 82
+
+-4
+-3
+ 9
+costs: 98
+
+-4
+-2
+ 9
+costs: 114
+
+-4
+-1
+ 9
+costs: 130
+
+-4
+ 0
+ 9
+costs: 146
+
+-4
+ 1
+ 9
+costs: 162
+
+-4
+ 2
+ 9
+costs: 178
+
+-4
+ 3
+ 9
+costs: 194
+
+-4
+ 4
+ 9
+costs: 210
+
+-4
+ 5
+ 9
+costs: 226
+
+-4
+ 6
+ 9
+costs: 242
+
+-4
+ 7
+ 9
+costs: 258
+
+-4
+ 8
+ 9
+costs: 274
+
+-4
+ 9
+ 9
+costs: 290
+
+-4
+10
+ 9
+costs: 306
+
+-4
+11
+ 9
+costs: 322
+
+-4
+-6
+10
+costs: 68
+
+-4
+-5
+10
+costs: 84
+
+-4
+-4
+10
+costs: 100
+
+-4
+-3
+10
+costs: 116
+
+-4
+-2
+10
+costs: 132
+
+-4
+-1
+10
+costs: 148
+
+-4
+ 0
+10
+costs: 164
+
+-4
+ 1
+10
+costs: 180
+
+-4
+ 2
+10
+costs: 196
+
+-4
+ 3
+10
+costs: 212
+
+-4
+ 4
+10
+costs: 228
+
+-4
+ 5
+10
+costs: 244
+
+-4
+ 6
+10
+costs: 260
+
+-4
+ 7
+10
+costs: 276
+
+-4
+ 8
+10
+costs: 292
+
+-4
+ 9
+10
+costs: 308
+
+-4
+10
+10
+costs: 324
+
+-4
+11
+10
+costs: 340
+
+-4
+-6
+11
+costs: 86
+
+-4
+-5
+11
+costs: 102
+
+-4
+-4
+11
+costs: 118
+
+-4
+-3
+11
+costs: 134
+
+-4
+-2
+11
+costs: 150
+
+-4
+-1
+11
+costs: 166
+
+-4
+ 0
+11
+costs: 182
+
+-4
+ 1
+11
+costs: 198
+
+-4
+ 2
+11
+costs: 214
+
+-4
+ 3
+11
+costs: 230
+
+-4
+ 4
+11
+costs: 246
+
+-4
+ 5
+11
+costs: 262
+
+-4
+ 6
+11
+costs: 278
+
+-4
+ 7
+11
+costs: 294
+
+-4
+ 8
+11
+costs: 310
+
+-4
+ 9
+11
+costs: 326
+
+-4
+10
+11
+costs: 342
+
+-4
+11
+11
+costs: 358
+
+solutions: 90
+best solutions: 1
+max costs: 358
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 19:04:08 CEST 2021
+    hostname = node032
+- Job information:
+    JobId = 900509
+    JobName = j3_1_1_1B2_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node032
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j3_1_1_1B2_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j3_1_1_1B2_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j3_1_1_1B2_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:01 ( 1s )
+    MaxRSS = 920K ( 0.898M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

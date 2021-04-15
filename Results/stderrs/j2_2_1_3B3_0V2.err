@@ -1,0 +1,2 @@
+/opt/slurm/spool/d/job899830/slurm_script: line 14: 32269 Killed                  ~/IntOpt/V2/nfold ~/IntOpt/myCases/2_2_1_3/bound_3_0.in
+slurmstepd: error: Detected 1 oom-kill event(s) in step 899830.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

@@ -1,0 +1,326 @@
+--------BEG-----------
+  6
+-17
+costs: 553
+
+  7
+-17
+costs: 563
+
+  8
+-17
+costs: 573
+
+  9
+-17
+costs: 583
+
+  6
+-16
+costs: 524
+
+  7
+-16
+costs: 534
+
+  8
+-16
+costs: 544
+
+  9
+-16
+costs: 554
+
+  6
+-15
+costs: 495
+
+  7
+-15
+costs: 505
+
+  8
+-15
+costs: 515
+
+  9
+-15
+costs: 525
+
+  6
+-14
+costs: 466
+
+  7
+-14
+costs: 476
+
+  8
+-14
+costs: 486
+
+  9
+-14
+costs: 496
+
+  6
+-13
+costs: 437
+
+  7
+-13
+costs: 447
+
+  8
+-13
+costs: 457
+
+  9
+-13
+costs: 467
+
+  6
+-12
+costs: 408
+
+  7
+-12
+costs: 418
+
+  8
+-12
+costs: 428
+
+  9
+-12
+costs: 438
+
+  6
+-11
+costs: 379
+
+  7
+-11
+costs: 389
+
+  8
+-11
+costs: 399
+
+  9
+-11
+costs: 409
+
+  6
+-10
+costs: 350
+
+  7
+-10
+costs: 360
+
+  8
+-10
+costs: 370
+
+  9
+-10
+costs: 380
+
+ 6
+-9
+costs: 321
+
+ 7
+-9
+costs: 331
+
+ 8
+-9
+costs: 341
+
+ 9
+-9
+costs: 351
+
+ 6
+-8
+costs: 292
+
+ 7
+-8
+costs: 302
+
+ 8
+-8
+costs: 312
+
+ 9
+-8
+costs: 322
+
+ 6
+-7
+costs: 263
+
+ 7
+-7
+costs: 273
+
+ 8
+-7
+costs: 283
+
+ 9
+-7
+costs: 293
+
+ 6
+-6
+costs: 234
+
+ 7
+-6
+costs: 244
+
+ 8
+-6
+costs: 254
+
+ 9
+-6
+costs: 264
+
+ 6
+-5
+costs: 205
+
+ 7
+-5
+costs: 215
+
+ 8
+-5
+costs: 225
+
+ 9
+-5
+costs: 235
+
+ 6
+-4
+costs: 176
+
+ 7
+-4
+costs: 186
+
+ 8
+-4
+costs: 196
+
+ 9
+-4
+costs: 206
+
+ 6
+-3
+costs: 147
+
+ 7
+-3
+costs: 157
+
+ 8
+-3
+costs: 167
+
+ 9
+-3
+costs: 177
+
+ 6
+-2
+costs: 118
+
+ 7
+-2
+costs: 128
+
+ 8
+-2
+costs: 138
+
+ 9
+-2
+costs: 148
+
+ 6
+-1
+costs: 89
+
+ 7
+-1
+costs: 99
+
+ 8
+-1
+costs: 109
+
+ 9
+-1
+costs: 119
+
+6
+0
+costs: 60
+
+7
+0
+costs: 70
+
+8
+0
+costs: 80
+
+9
+0
+costs: 90
+
+solutions: 72
+best solutions: 1
+max costs: 583
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 18:48:08 CEST 2021
+    hostname = node032
+- Job information:
+    JobId = 900320
+    JobName = j2_1_1_1B4_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node032
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_1_1_1B4_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_1_1_1B4_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_1_1_1B4_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:01 ( 1s )
+    MaxRSS = 916K ( 0.895M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

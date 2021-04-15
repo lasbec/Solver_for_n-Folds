@@ -1,0 +1,170 @@
+--------BEG-----------
+ 0
+-4
+-3
+ 6
+ 5
+-8
+-2
+-7
+-6
+costs: -174
+
+ 0
+-9
+-3
+ 6
+ 3
+-5
+-2
+-7
+-6
+costs: -219
+
+ 0
+ 3
+-3
+ 7
+ 3
+ 4
+-2
+-7
+-6
+costs: 11
+
+ 0
+-8
+-3
+ 6
+ 5
+-8
+-2
+-9
+-5
+costs: -278
+
+ 0
+ 4
+-3
+ 7
+ 5
+ 1
+-2
+-9
+-5
+costs: -48
+
+ 0
+-1
+-3
+ 7
+ 3
+ 4
+-2
+-9
+-5
+costs: -93
+
+-7
+-4
+-3
+ 4
+-7
+-8
+ 8
+-6
+10
+costs: 222
+
+-7
+-9
+-3
+ 4
+-9
+-5
+ 8
+-6
+10
+costs: 177
+
+-7
+ 3
+-3
+ 5
+-9
+ 4
+ 8
+-6
+10
+costs: 407
+
+-7
+-8
+-3
+ 4
+-7
+-8
+ 8
+-8
+11
+costs: 118
+
+-7
+ 4
+-3
+ 5
+-7
+ 1
+ 8
+-8
+11
+costs: 348
+
+-7
+-1
+-3
+ 5
+-9
+ 4
+ 8
+-8
+11
+costs: 303
+
+solutions: 12
+best solutions: 1
+max costs: 407
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 19:08:50 CEST 2021
+    hostname = node034
+- Job information:
+    JobId = 900522
+    JobName = j3_1_1_3B1_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node034
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j3_1_1_3B1_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j3_1_1_3B1_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j3_1_1_3B1_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:03:43 ( 223s )
+    MaxRSS = 916K ( 0.895M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

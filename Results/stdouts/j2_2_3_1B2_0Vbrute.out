@@ -1,0 +1,70 @@
+--------BEG-----------
+-3
+ 2
+costs: -37
+
+-2
+ 2
+costs: -40
+
+-1
+ 2
+costs: -43
+
+0
+2
+costs: -46
+
+1
+2
+costs: -49
+
+2
+2
+costs: -52
+
+3
+2
+costs: -55
+
+4
+2
+costs: -58
+
+solutions: 8
+best solutions: 1
+max costs: -37
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 18:57:08 CEST 2021
+    hostname = node034
+- Job information:
+    JobId = 900426
+    JobName = j2_2_3_1B2_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node034
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_2_3_1B2_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_2_3_1B2_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_2_3_1B2_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:01 ( 1s )
+    MaxRSS = 908K ( 0.887M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

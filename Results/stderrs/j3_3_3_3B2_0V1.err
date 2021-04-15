@@ -1,0 +1,4 @@
+INFO: Overflow on bound on graver basis elements
+INFO: Overflow on bound on graver basis elements
+/opt/slurm/spool/d/job899557/slurm_script: line 14: 11131 Killed                  ~/IntOpt/V1/nfold ~/IntOpt/myCases/3_3_3_3/bound_2_0.in
+slurmstepd: error: Detected 1 oom-kill event(s) in step 899557.batch cgroup. Some of your processes may have been killed by the cgroup out-of-memory handler.

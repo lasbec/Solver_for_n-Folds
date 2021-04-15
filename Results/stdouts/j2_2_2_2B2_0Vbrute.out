@@ -1,0 +1,62 @@
+--------BEG-----------
+-8
+ 9
+-3
+ 6
+costs: 132
+
+-6
+ 6
+-3
+ 7
+costs: 127
+
+-4
+ 3
+-3
+ 8
+costs: 122
+
+-2
+ 0
+-3
+ 9
+costs: 117
+
+solutions: 4
+best solutions: 1
+max costs: 132
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 18:55:09 CEST 2021
+    hostname = node086
+- Job information:
+    JobId = 900411
+    JobName = j2_2_2_2B2_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node086
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_2_2_2B2_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_2_2_2B2_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_2_2_2B2_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:00 ( 0s )
+    MaxRSS = 912K ( 0.891M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

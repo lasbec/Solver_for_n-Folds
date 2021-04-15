@@ -1,0 +1,218 @@
+--------BEG-----------
+-13
+-18
+costs: -374
+
+-13
+-17
+costs: -346
+
+-13
+-16
+costs: -318
+
+-13
+-15
+costs: -290
+
+-13
+-14
+costs: -262
+
+-13
+-13
+costs: -234
+
+-13
+-12
+costs: -206
+
+-13
+-11
+costs: -178
+
+-13
+-10
+costs: -150
+
+-13
+ -9
+costs: -122
+
+-13
+ -8
+costs: -94
+
+-13
+ -7
+costs: -66
+
+-13
+ -6
+costs: -38
+
+-13
+ -5
+costs: -10
+
+-13
+ -4
+costs: 18
+
+-13
+ -3
+costs: 46
+
+-13
+ -2
+costs: 74
+
+-13
+ -1
+costs: 102
+
+-13
+  0
+costs: 130
+
+-13
+  1
+costs: 158
+
+-13
+  2
+costs: 186
+
+-13
+  3
+costs: 214
+
+-13
+  4
+costs: 242
+
+-13
+  5
+costs: 270
+
+-13
+  6
+costs: 298
+
+-13
+  7
+costs: 326
+
+-13
+  8
+costs: 354
+
+-13
+  9
+costs: 382
+
+-13
+ 10
+costs: 410
+
+-13
+ 11
+costs: 438
+
+-13
+ 12
+costs: 466
+
+-13
+ 13
+costs: 494
+
+-13
+ 14
+costs: 522
+
+-13
+ 15
+costs: 550
+
+-13
+ 16
+costs: 578
+
+-13
+ 17
+costs: 606
+
+-13
+ 18
+costs: 634
+
+-13
+ 19
+costs: 662
+
+-13
+ 20
+costs: 690
+
+-13
+ 21
+costs: 718
+
+-13
+ 22
+costs: 746
+
+-13
+ 23
+costs: 774
+
+-13
+ 24
+costs: 802
+
+-13
+ 25
+costs: 830
+
+-13
+ 26
+costs: 858
+
+solutions: 45
+best solutions: 1
+max costs: 858
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 18:51:07 CEST 2021
+    hostname = node086
+- Job information:
+    JobId = 900365
+    JobName = j2_1_3_1B5_0Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node086
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_1_3_1B5_0Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_1_3_1B5_0Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_1_3_1B5_0Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:00 ( 0s )
+    MaxRSS = 916K ( 0.895M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+

@@ -1,0 +1,34 @@
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 22:54:18 CEST 2021
+    hostname = node001
+- Job information:
+    JobId = 899215
+    JobName = j2_1_2_2B3_0V1
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node001
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_1_2_2B3_0V1.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_1_2_2B3_0V1.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_1_2_2B3_0V1.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 200G ( 204800.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 02:34:20 ( 9260s )
+    MaxRSS = 209714888K ( 204799.695M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 70% of requested walltime used !!! Please, adapt your batch script.
+    (null)
+

@@ -1,0 +1,294 @@
+--------BEG-----------
+ 10
+ -3
+ -6
+  0
+-10
+ -7
+costs: -659
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-7
+costs: -195
+
+ 10
+ -3
+ -6
+  0
+-10
+ -6
+costs: -637
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-6
+costs: -173
+
+ 10
+ -3
+ -6
+  0
+-10
+ -5
+costs: -615
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-5
+costs: -151
+
+ 10
+ -3
+ -6
+  0
+-10
+ -4
+costs: -593
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-4
+costs: -129
+
+ 10
+ -3
+ -6
+  0
+-10
+ -3
+costs: -571
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-3
+costs: -107
+
+ 10
+ -3
+ -6
+  0
+-10
+ -2
+costs: -549
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-2
+costs: -85
+
+ 10
+ -3
+ -6
+  0
+-10
+ -1
+costs: -527
+
+ 9
+ 5
+ 2
+ 7
+ 2
+-1
+costs: -63
+
+ 10
+ -3
+ -6
+  0
+-10
+  0
+costs: -505
+
+9
+5
+2
+7
+2
+0
+costs: -41
+
+ 10
+ -3
+ -6
+  0
+-10
+  1
+costs: -483
+
+9
+5
+2
+7
+2
+1
+costs: -19
+
+ 10
+ -3
+ -6
+  0
+-10
+  2
+costs: -461
+
+9
+5
+2
+7
+2
+2
+costs: 3
+
+ 10
+ -3
+ -6
+  0
+-10
+  3
+costs: -439
+
+9
+5
+2
+7
+2
+3
+costs: 25
+
+ 10
+ -3
+ -6
+  0
+-10
+  4
+costs: -417
+
+9
+5
+2
+7
+2
+4
+costs: 47
+
+ 10
+ -3
+ -6
+  0
+-10
+  5
+costs: -395
+
+9
+5
+2
+7
+2
+5
+costs: 69
+
+ 10
+ -3
+ -6
+  0
+-10
+  6
+costs: -373
+
+9
+5
+2
+7
+2
+6
+costs: 91
+
+ 10
+ -3
+ -6
+  0
+-10
+  7
+costs: -351
+
+9
+5
+2
+7
+2
+7
+costs: 113
+
+ 10
+ -3
+ -6
+  0
+-10
+  8
+costs: -329
+
+9
+5
+2
+7
+2
+8
+costs: 135
+
+solutions: 32
+best solutions: 1
+max costs: 135
+
+Slurm Job Summary
+*****************
+- General information:
+    date = Sat Apr 3 18:49:08 CEST 2021
+    hostname = node032
+- Job information:
+    JobId = 900332
+    JobName = j2_1_1_3B1_1Vbrute
+    UserId = sunip624(67554)
+    Account = sunip624
+    QOS = normal
+    NodeList = node032
+    Features = (null)
+    Command = /home/sunip624/IntOpt/sbatches/j2_1_1_3B1_1Vbrute.sbatch
+    WorkDir = /home/sunip624/IntOpt
+    StdOut = /home/sunip624/IntOpt/./stdouts/j2_1_1_3B1_1Vbrute.out
+    StdErr = /home/sunip624/IntOpt/./stderrs/j2_1_1_3B1_1Vbrute.err
+- Requested resources:
+    Timelimit = 04:00:00 ( 14400s )
+    MinMemoryNode = 10G ( 10240.000M )
+    NumNodes = 1
+    NumCPUs = 16
+    NumTasks = 1
+    CPUs/Task = 16
+- Used resources:
+    RunTime = 00:00:01 ( 1s )
+    MaxRSS = 912K ( 0.891M )
+====================
+- Important conclusions and remarks:
+    * !!! Please, always check if the number of requested cores and nodes matches the need of your program/code !!!
+    * !!! Less than 10% of requested walltime used !!! Please, adapt your batch script.
+    * !!! Less than 10% of requested main memory used !!! Please, adapt your batch script.
+
